@@ -1,2 +1,3 @@
-# devops-lab5-student-manager
-lap5
+
+# Student Manager
+Ứng dụng quản lý sinh viên — DevOps Lab 5
